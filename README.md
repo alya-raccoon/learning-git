@@ -13,5 +13,5 @@
 
 
 
-\# Автор: Alya-raccoon
+\## Автор: Alya-raccoon - это оригинал 
 
